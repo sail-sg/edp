@@ -2,10 +2,10 @@
 
 Official Jax implementation of EDP, from the following paper: 
 
-[Efficient Diffusion Policies for Offline Reinforcement Learning](). arxiv.  
-[Bingyi Kang](), [Xiao Ma](), [Chao, Du](), [Tianyu Pang](), [Shuicheng Yan]()  
+[Efficient Diffusion Policies for Offline Reinforcement Learning](). NeurIPS 2023.  
+[Bingyi Kang](https://scholar.google.com.sg/citations?user=NmHgX-wAAAAJ&hl=en), [Xiao Ma](https://yusufma03.github.io/), [Chao, Du](https://duchao0726.github.io/), [Tianyu Pang](https://p2333.github.io/), [Shuicheng Yan](https://yanshuicheng.info/)  
 Sea AI Lab  
-[[arxiv]()]
+[[arxiv](https://arxiv.org/abs/2305.20081)]
 
 <!-- <img width="1050" alt="Screenshot 2023-03-11 at 11 02 48 AM" src="https://user-images.githubusercontent.com/17242808/224461643-c7c896ef-2ae0-4cbf-8db2-466a0e3e3576.png"> -->
 ---
