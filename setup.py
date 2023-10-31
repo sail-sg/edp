@@ -21,7 +21,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 
 def get_version() -> str:
   # https://packaging.python.org/guides/single-sourcing-package-version/
-  init = open(os.path.join("algos", "__init__.py"), "r").read().split()
+  init = open(os.path.join("diffusion", "__init__.py"), "r").read().split()
   return init[init.index("__version__") + 2][1:-1]
 
 
